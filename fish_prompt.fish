@@ -32,8 +32,6 @@ function fish_prompt
 
   set -l cwd $blue(pwd | sed "s:^$HOME:~:")
 
-  # Output the prompt, left to right
-
   # Add a newline before new prompts
   echo -e ''
 
