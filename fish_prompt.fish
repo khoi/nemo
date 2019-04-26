@@ -8,8 +8,6 @@ set __fish_git_prompt_color_stagedstate yellow
 set __fish_git_prompt_color_invalidstate red
 set __fish_git_prompt_color_cleanstate green
 set __fish_git_prompt_color_branch cyan
-set __fish_git_prompt_color_upstream_ahead green
-set __fish_git_prompt_color_upstream_behind red
 
 # Git Characters
 set __fish_git_prompt_char_stagedstate "●"
